@@ -34,13 +34,13 @@ export default function Faqs() {
 					id="panel1-header"
 				>
 					<Typography variant="body1" sx={{ fontWeight: 700 }}>
-						Is SMSWithoutBorders an open source project?
+						Is SomeCompany an open source project?
 					</Typography>
 				</AccordionSummary>
 				<AccordionDetails>
 					<Typography>
-						Yes SMSWithoutBorders is open source, we believe communication should be secure,
-						unrestricted, and empowering for all.
+						Yes SomeCompany is open source, we believe communication should be secure, unrestricted,
+						and empowering for all.
 					</Typography>
 				</AccordionDetails>
 			</Accordion>

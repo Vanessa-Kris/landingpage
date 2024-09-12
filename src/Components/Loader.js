@@ -26,7 +26,7 @@ const Loader = () => {
 						}}
 					>
 						<Typography align="center" variant="h3" sx={{ fontWeight: 700 }}>
-							SMSWithoutBorders
+							SomeCompany
 						</Typography>
 					</Box>
 				</span>

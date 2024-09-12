@@ -10,28 +10,20 @@ export default function Footer() {
 					<Typography variant="body1" sx={{ pt: 1, pr: 3 }}>
 						Follow us
 					</Typography>
-					<IconButton component="a" href="https://twitter.com/SwobOutreach" target="_blank">
+					<IconButton component="a" href="/" target="_blank">
 						<FaXTwitter size="20px" />
 					</IconButton>
-					<IconButton
-						component="a"
-						href="https://www.facebook.com/SMSWithoutBorders"
-						target="_blank"
-					>
+					<IconButton component="a" href="/" target="_blank">
 						{" "}
 						<FaFacebook size="20px" />{" "}
 					</IconButton>
 
-					<IconButton component="a" href="https://github.com/smswithoutborders" target="_blank">
+					<IconButton component="a" href="/" target="_blank">
 						{" "}
 						<FaGithub size="20px" />{" "}
 					</IconButton>
 
-					<IconButton
-						component="a"
-						href="https://www.youtube.com/@smswithoutborders9162"
-						target="_blank"
-					>
+					<IconButton component="a" href="/" target="_blank">
 						{" "}
 						<FaYoutube size="20px" />{" "}
 					</IconButton>
@@ -52,14 +44,14 @@ export default function Footer() {
 									color: "white"
 								}}
 							>
-								SMSWithoutBorders
+								SomeCompany
 							</Typography>
 						</Grid>
 						<Grid item md={6} xs={12}>
 							<Box sx={{ display: { md: "flex", xs: "block" } }}>
 								<Typography
 									component="a"
-									href="https://blog.smswithoutborders.com/"
+									href="/"
 									target="_blank"
 									rel="noopener noreferrer"
 									variant="body1"
@@ -69,27 +61,27 @@ export default function Footer() {
 								</Typography>
 								<Typography
 									component="a"
-									href="https://github.com/smswithoutborders"
+									href=""
 									target="_blank"
 									rel="noopener noreferrer"
 									variant="body1"
 									sx={{ p: 2, textDecoration: "none", color: "white" }}
 								>
-									RelaySMS
+									Product1
 								</Typography>
 								<Typography
 									component="a"
-									href="https://github.com/deku-messaging"
+									href="/"
 									target="_blank"
 									rel="noopener noreferrer"
 									variant="body1"
 									sx={{ p: 2, textDecoration: "none", color: "white" }}
 								>
-									Deku SMS
+									Product2
 								</Typography>
 								<Typography
 									component="a"
-									href="https://github.com/smswithoutborders"
+									href=""
 									target="_blank"
 									rel="noopener noreferrer"
 									variant="body1"
@@ -98,7 +90,7 @@ export default function Footer() {
 									Developers
 								</Typography>
 								<Typography variant="body1" sx={{ p: 2 }}>
-									© 2024 SMSWithoutBorders
+									© 2024 SomeCompany
 								</Typography>
 							</Box>
 						</Grid>

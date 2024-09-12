@@ -20,7 +20,7 @@ export default function Nav() {
 					variant="h6"
 					sx={{ marginLeft: "8px", fontWeight: 600, textDecoration: "none", color: "white" }}
 				>
-					SMSWithoutBorders
+					SomeCompany
 				</Typography>
 			</Box>
 			<Box sx={{ display: "flex" }}>
@@ -36,7 +36,7 @@ export default function Nav() {
 				>
 					<Button
 						component="a"
-						href="https://github.com/smswithoutborders"
+						href="https://github.com/SomeCompany"
 						target="_blank"
 						rel="noopener noreferrer"
 						sx={{
@@ -64,7 +64,7 @@ export default function Nav() {
 					</Button>
 					<Button
 						component="a"
-						href="https://blog.smswithoutborders.com/"
+						href="https://blog.SomeCompany.com/"
 						target="_blank"
 						rel="noopener noreferrer"
 						sx={{
@@ -79,7 +79,7 @@ export default function Nav() {
 
 					<IconButton
 						component="a"
-						href="https://github.com/smswithoutborders"
+						href="https://github.com/SomeCompany"
 						target="_blank"
 						rel="noopener noreferrer"
 					>

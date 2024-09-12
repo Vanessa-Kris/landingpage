@@ -1,4 +1,4 @@
-name: Deploy smswithoutborders homepage on Server (staging)
+name: Deploy SomeCompany homepage on Server (staging)
 on:
   push:
     branches:
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: staging
-      url: https://staging.smswithoutborders.com:18600
+      url: https://staging.SomeCompany.com:18600
     steps:
       - name: Execute Remote SSH Commands
         uses: appleboy/ssh-action@master

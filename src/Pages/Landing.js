@@ -88,8 +88,8 @@ export default function Landing() {
 							King Jr.
 						</Typography>
 						<Typography variant="h6" sx={{ px: { md: 15, xs: 2 }, opacity: "75%" }}>
-							SMSWithoutBorders keeps the conversation going with secure messaging tools that
-							empower your voice, anywhere.
+							SomeCompany keeps the conversation going with secure messaging tools that empower your
+							voice, anywhere.
 						</Typography>
 					</Grid>
 				</Grid>

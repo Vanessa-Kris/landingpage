@@ -31,9 +31,9 @@ function MobileNav() {
 				}}
 			>
 				<Box display="flex">
-					<img src="/logo.png" style={{ width: "35px" }} alt="smswithoutborders logo" />
+					<img src="/logo.png" style={{ width: "35px" }} alt="SomeCompany logo" />
 					<Typography variant="body1" sx={{ fontWeight: 600, px: 2 }}>
-						SMSWithoutBorders
+						SomeCompany
 					</Typography>
 				</Box>{" "}
 				<Toolbar disableGutters>
@@ -69,7 +69,7 @@ function MobileNav() {
 							<MenuItem
 								onClick={handleCloseNavMenu}
 								component="a"
-								href="https://github.com/smswithoutborders"
+								href="https://github.com/SomeCompany"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
@@ -89,7 +89,7 @@ function MobileNav() {
 							<MenuItem
 								onClick={handleCloseNavMenu}
 								component="a"
-								href="https://blog.smswithoutborders.com/"
+								href="https://blog.SomeCompany.com/"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
@@ -99,7 +99,7 @@ function MobileNav() {
 							<MenuItem onClick={handleCloseNavMenu}>
 								<IconButton
 									component="a"
-									href="https://github.com/smswithoutborders"
+									href="https://github.com/SomeCompany"
 									target="_blank"
 									rel="noopener noreferrer"
 								>

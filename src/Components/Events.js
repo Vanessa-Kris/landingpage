@@ -28,7 +28,7 @@ export default function Events() {
 				JOIN US AT UPCOMING EVENTS
 			</Typography>
 			<Typography variant="h5" sx={{ pb: 5, color: "whitesmoke", fontWeight: 600 }}>
-				Attend events hosted by SMSWithoutBorders, both online and onsite.
+				Attend events hosted by SomeCompany, both online and onsite.
 			</Typography>
 
 			<Grid container columnSpacing={8} rowSpacing={8}>
@@ -170,7 +170,7 @@ export default function Events() {
 						<Typography variant="h6" sx={{ py: 2 }}>
 							Passionate about understanding the nuances of encryption, including its workings,
 							implementation, and fundamentals? Then this online session is tailor-made for you.
-							Gain insights from industry experts, the developers behind SMSWithoutBorders, as they
+							Gain insights from industry experts, the developers behind SomeCompany, as they
 							unravel the intricacies of encryption tools within the platform.
 						</Typography>
 						<Button
